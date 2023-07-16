@@ -1,3 +1,5 @@
+# [about AI-nalyst](https://github.com/by-hwa/AI-nalyst/blob/master/about_AI-nalyst/README.md)
+
 # Hustar 4조 팀프로젝트 진행 참고사항
 ### 8.24(수)
 - Ainalyst Django file Final Upload

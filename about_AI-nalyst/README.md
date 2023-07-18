@@ -53,7 +53,7 @@
     - kakaobrain kor - en - kor
     - googletranslation kor - en - kor
     - googletranslation kor - zh-cn - kor
-- Origin data + Argumentation Data *3, 기존 데이터 보다 4배 많은 데이터 확보.
+- Origin data + Argumentation Data *3, 기존 데이터 보다 3배 많은 데이터 확보.
 
 ### 4. Train model
 - kb-albert를 제외한 kobert, Roberta 모델을 범용 corpus로 학습된 사전학습언어모델을 금융데이터로 domain adaptive fine-tuning 후.

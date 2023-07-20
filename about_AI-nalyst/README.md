@@ -44,6 +44,12 @@
 - PDF to Text.
 - 본문의 내용만 추출.
 - 데이터 라벨링.
+   - 데이터 라벨링 과정에서 Supervised Learning 으로 자기지도 학습을 통한 데이터 라벨링 시도.
+      - LDA를 이용한 토픽 분류 기법을 통한 분류.
+         - 매수, 매도 리포트 모두 같은 토픽을 가르켜 분류 불가능.
+      - Clustering을 이용한 분류.
+         - 분류된 데이터에 비전문가인 우리가 라벨링 하기엔 데이터의 신뢰도가 떨어짐.
+   - 강력 매수와 매도, 중립 리포트의 의견을 매수와 매도로 라벨링하여 사용.
 
 ### 3. Data Argumentation
 <img width="1073" alt="image" src="https://github.com/by-hwa/AI-nalyst/assets/102535447/6a8e13c8-841a-4a79-8fe8-2c71b236f180">
